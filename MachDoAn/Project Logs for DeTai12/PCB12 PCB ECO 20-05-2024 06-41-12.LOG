@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=IN1 Pin=IC1-1
+Removed Pin From Net: NetName=IN2 Pin=IC1-2
+Removed Pin From Net: NetName=IN3 Pin=IC1-3
+Removed Pin From Net: NetName=IN4 Pin=IC1-4
+Removed Pin From Net: NetName=IN1 Pin=JP2-1
+Removed Pin From Net: NetName=IN2 Pin=JP2-2
+Removed Pin From Net: NetName=IN3 Pin=JP2-3
+Removed Pin From Net: NetName=IN4 Pin=JP2-4
+Added Pin To Net: NetName=IN4 Pin=IC1-1
+Added Pin To Net: NetName=IN3 Pin=IC1-2
+Added Pin To Net: NetName=IN2 Pin=IC1-3
+Added Pin To Net: NetName=IN1 Pin=IC1-4
+Added Pin To Net: NetName=IN4 Pin=JP2-1
+Added Pin To Net: NetName=IN3 Pin=JP2-2
+Added Pin To Net: NetName=IN2 Pin=JP2-3
+Added Pin To Net: NetName=IN1 Pin=JP2-4
+Added Room: Name=SCH12

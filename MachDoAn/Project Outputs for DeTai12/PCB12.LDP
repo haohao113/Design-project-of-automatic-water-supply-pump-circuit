@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: E:\DaiHoc\Nam_2023_2024\Ky2\KyThuatVDK\DoAnVDK\DeTai12\MachDoAn1\PCB_Project\PCB12.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pcb12-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=pcb12-slotholes.txt|DrillLayers=gtl,gbl

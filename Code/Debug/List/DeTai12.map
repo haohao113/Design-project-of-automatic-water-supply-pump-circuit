@@ -1,0 +1,68 @@
+RAM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+buffer                                                                            0x0160      16
+_base_y                                                                           0x0170       4
+_lcd_y                                                                            0x0174       1
+_lcd_maxx                                                                         0x0175       1
+
+EEPROM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                                          Register  Size
+------------------------------------------------------------------------------------------------
+mode                                                                              R5           1
+mode1                                                                             R4           1
+pump_status                                                                       R7           1
+min_water_level                                                                   R8,R9        2
+max_water_level                                                                   R10,R11      2
+water_level                                                                       R12,R13      2
+_lcd_x                                                                            R6           1
+
+FLASH Allocation [words]
+Function                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+ADC_init                                                                          0x00088      8
+measure_water_level                                                               0x00090     95
+display_mode                                                                      0x000EF     12
+display_min_max                                                                   0x000FB     19
+display_distance                                                                  0x0010E     29
+main                                                                              0x0012B    173
+_lcd_write_nibble_G100                                                            0x001D8     20
+_lcd_write_data                                                                   0x001EC     12
+lcd_gotoxy                                                                        0x001F8     15
+lcd_clear                                                                         0x00207     13
+lcd_putchar                                                                       0x00214     26
+lcd_puts                                                                          0x0022E     15
+lcd_putsf                                                                         0x0023D     19
+lcd_init                                                                          0x00250     47
+put_buff_G101                                                                     0x0027F     64
+_print_G101                                                                       0x002BF    308
+sprintf                                                                           0x003F3     52
+strlen                                                                            0x00427     12
+strlenf                                                                           0x00433     13
+
+FLASH Allocation [words]
+Function                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+ADC_init                                                                          0x00088      8
+measure_water_level                                                               0x00090     95
+display_mode                                                                      0x000EF     12
+display_min_max                                                                   0x000FB     19
+display_distance                                                                  0x0010E     29
+main                                                                              0x0012B    173
+_lcd_write_nibble_G100                                                            0x001D8     20
+_lcd_write_data                                                                   0x001EC     12
+lcd_gotoxy                                                                        0x001F8     15
+lcd_clear                                                                         0x00207     13
+lcd_putchar                                                                       0x00214     26
+lcd_puts                                                                          0x0022E     15
+lcd_putsf                                                                         0x0023D     19
+lcd_init                                                                          0x00250     47
+put_buff_G101                                                                     0x0027F     64
+_print_G101                                                                       0x002BF    308
+sprintf                                                                           0x003F3     52
+strlen                                                                            0x00427     12
+strlenf                                                                           0x00433     13

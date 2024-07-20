@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: E:\DaiHoc\Nam_2023_2024\Ky2\KyThuatVDK\DoAnVDK\DeTai12\MachDoAn1\PCB_Project\PCB12.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=19.69
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

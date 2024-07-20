@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=PD3 Pin=BT1-2
+Removed Pin From Net: NetName=PD3 Pin=BT1-2
+Removed Pin From Net: NetName=PD4 Pin=BT2-2
+Removed Pin From Net: NetName=PD4 Pin=BT2-2
+Removed Pin From Net: NetName=PD5 Pin=BT3-2
+Removed Pin From Net: NetName=PD5 Pin=BT3-2
+Removed Pin From Net: NetName=+5 Pin=H3-2
+Removed Pin From Net: NetName=GND Pin=H3-3
+Removed Pin From Net: NetName=IN1 Pin=IC1-4
+Removed Pin From Net: NetName=IN1 Pin=JP4-4
+Removed Pin From Net: NetName=PD3 Pin=R1-1
+Removed Pin From Net: NetName=PD4 Pin=R2-1
+Removed Pin From Net: NetName=PD5 Pin=R3-1
+Removed Member From Class: ClassName=SCH15 Member=H3
+Change Component Designator: OldDesignator=H2 NewDesignator=H1
+Change Component Designator: OldDesignator=JP3 NewDesignator=JP1
+Change Component Designator: OldDesignator=JP4 NewDesignator=JP2
+Change Component Designator: OldDesignator=JP5 NewDesignator=JP3
+Change Component Designator: OldDesignator=JP6 NewDesignator=JP4
+Change Component Designator: OldDesignator=JP7 NewDesignator=JP5
+Change Component Designator: OldDesignator=JP8 NewDesignator=JP6
+Change Component Designator: OldDesignator=U2 NewDesignator=U1
+Change Component Designator: OldDesignator=U3 NewDesignator=U2
+Added Component: Designator=H2(XH2.54M-4)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001285"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 4P XH2.54-4P Ð?c Th?ng"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PD3 Pin=BT2-2
+Added Pin To Net: NetName=PD3 Pin=BT2-2
+Added Pin To Net: NetName=PD4 Pin=BT3-2
+Added Pin To Net: NetName=PD4 Pin=BT3-2
+Added Pin To Net: NetName=PD5 Pin=BT4-2
+Added Pin To Net: NetName=PD5 Pin=BT4-2
+Added Pin To Net: NetName=PD0 Pin=H2-2
+Added Pin To Net: NetName=+5 Pin=H2-3
+Added Pin To Net: NetName=GND Pin=H2-4
+Added Pin To Net: NetName=IN1 Pin=IC1-20
+Added Pin To Net: NetName=IN1 Pin=JP5-7
+Added Pin To Net: NetName=PD3 Pin=R2-1
+Added Pin To Net: NetName=PD4 Pin=R3-1
+Added Pin To Net: NetName=PD5 Pin=R4-1
+Added Pin To Net: NetName=ECHO Pin=H2-1
+Added Pin To Net: NetName=ECHO Pin=IC1-15
+Added Pin To Net: NetName=ECHO Pin=JP5-2
+Added Net: Name=ECHO
+Added Pin To Net: NetName=PB3 Pin=IC1-4
+Added Pin To Net: NetName=PB3 Pin=JP2-4
+Added Net: Name=PB3
+Added Pin To Net: NetName=PD2 Pin=BT1-2
+Added Pin To Net: NetName=PD2 Pin=BT1-2
+Added Pin To Net: NetName=PD2 Pin=IC1-16
+Added Pin To Net: NetName=PD2 Pin=JP5-3
+Added Pin To Net: NetName=PD2 Pin=R1-1
+Added Net: Name=PD2
+Change Class Name : Old Net Name=SCH15 New Net Name=SCH12
+Added Member To Class: ClassName=SCH12 Member=Component H2 Header 4P 2.54 Duc Thang
+Added Room: Name=SCH12

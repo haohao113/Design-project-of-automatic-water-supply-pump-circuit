@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=\ Pin=IC1-3
+Removed Pin From Net: NetName=\ Pin=JP2-3
+Added Pin To Net: NetName=PB0 Pin=IC1-1
+Added Pin To Net: NetName=PB0 Pin=JP2-1
+Added Net: Name=PB0
+Added Pin To Net: NetName=PB1 Pin=IC1-2
+Added Pin To Net: NetName=PB1 Pin=JP2-2
+Added Net: Name=PB1
+Added Pin To Net: NetName=PB2 Pin=IC1-3
+Added Pin To Net: NetName=PB2 Pin=JP2-3
+Added Net: Name=PB2
+Added Pin To Net: NetName=PB3 Pin=IC1-4
+Added Pin To Net: NetName=PB3 Pin=JP2-4
+Added Net: Name=PB3
